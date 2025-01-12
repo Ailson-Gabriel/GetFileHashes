@@ -1,4 +1,4 @@
-# Get-AllFileHashes.ps1
+# GetFileHashes
 
 This repository contains a PowerShell script that allows you to calculate and display the hashes of a file using multiple hash algorithms (SHA1, SHA256, SHA384, SHA512, and MD5).
 
